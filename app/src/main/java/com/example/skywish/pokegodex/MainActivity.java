@@ -50,16 +50,18 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        // grid type
-        GridView gridView = findViewById(R.id.main_grid);
-        gridView.setNestedScrollingEnabled(false);
-        gridView.setAdapter(new PokemonTypeAdapter(this));
-        gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Toast.makeText(getApplicationContext(), "1", Toast.LENGTH_SHORT).show();
-            }
-        });
+        
+
+//        // grid type
+//        GridView gridView = findViewById(R.id.main_grid);
+//        gridView.setNestedScrollingEnabled(false);
+//        gridView.setAdapter(new PokemonTypeAdapter(this));
+//        gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+//            @Override
+//            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+//                Toast.makeText(getApplicationContext(), "1", Toast.LENGTH_SHORT).show();
+//            }
+//        });
 
 
 //        // Get the intent, verify the action and get the query
