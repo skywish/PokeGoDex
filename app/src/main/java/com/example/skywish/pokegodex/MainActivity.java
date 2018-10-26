@@ -6,6 +6,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v7.widget.DividerItemDecoration;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -20,10 +23,27 @@ import android.widget.GridView;
 import android.widget.SearchView;
 import android.widget.Toast;
 
+import com.example.skywish.pokegodex.models.Pokemon;
+import com.example.skywish.pokegodex.utilities.Constants;
+import com.example.skywish.pokegodex.widgets.PokemonAdapter;
 import com.example.skywish.pokegodex.widgets.PokemonTypeAdapter;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import com.google.gson.stream.JsonReader;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    private RecyclerView mRecyclerView;
+    private RecyclerView.Adapter mAdapter;
+    private RecyclerView.LayoutManager mLayoutManager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,6 +70,18 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        mRecyclerView = findViewById(R.id.main_recycler);
+
+        // use a linear layout manager
+        mLayoutManager = new LinearLayoutManager(this);
+        mRecyclerView.setLayoutManager(mLayoutManager);
+        mRecyclerView.addItemDecoration(new DividerItemDecoration(this, DividerItemDecoration.VERTICAL));
+
+
+        // specify an adapter (see also next example)
+        mAdapter = new PokemonAdapter(this, getData());
+        mRecyclerView.setAdapter(mAdapter);
+
         
 
 //        // grid type
@@ -70,6 +102,28 @@ public class MainActivity extends AppCompatActivity
 //            String query = intent.getStringExtra(SearchManager.QUERY);
 //            Toast.makeText(getApplicationContext(), query, Toast.LENGTH_SHORT).show();
 //        }
+    }
+
+    private List<Pokemon> getData() {
+        List<Pokemon> pokemonList = new ArrayList<>();
+//        Pokemon a = new Pokemon(1, "Mewtwo", R.drawable.id_150, "fighting", "electric", 400, 200, 200, "", 0, "", 20, "normal");
+//        Pokemon b = new Pokemon(2, "Mew", R.drawable.id_149, "fighting", "", 400, 200, 200, "", 0, "", 20, "normal");
+//        for (int i = 0; i < 1; i++) {
+//            pokemonList.add(a);
+//        }
+//        for (int i = 0; i < 1; i++) {
+//            pokemonList.add(b);
+//        }
+        InputStream inputStream = null;
+        try {
+            inputStream = getAssets().open(Constants.POKEMON_DATA_FILENAME);
+            JsonReader jsonReader = new JsonReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8));
+            Gson gson = new Gson();
+            pokemonList = gson.fromJson(jsonReader, new TypeToken<List<Pokemon>>(){}.getType());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return pokemonList;
     }
 
     @Override

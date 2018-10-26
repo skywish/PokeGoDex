@@ -23,5 +23,11 @@
     <color name="type_dragon">#7038f8</color>
     <color name="type_dark">#504843</color>
     <color name="type_fairy">#f09ad9</color>
+    <color name="item_number">#111111</color>
+    <color name="item_type">#FFFFFF</color>
+    <color name="item_name">#000000</color>
+
+    <color name="list_head">#2d9486</color>
+    <color name="list_head_font">#ffffff</color>
 
 </resources>

@@ -118,4 +118,11 @@
     <string name="type_rock">Rock</string>
     <string name="type_steel">Steel</string>
     <string name="type_water">Water</string>
+    <string name="pokemon_image">Pokemon image</string>
+    <string name="list_head_column1">#</string>
+    <string name="list_head_column2">POKEMON</string>
+    <string name="list_head_column3">CP</string>
+    <string name="list_head_column4">ATT</string>
+    <string name="list_head_column5">DEF</string>
+    <string name="list_head_column6">STA</string>
 </resources>
