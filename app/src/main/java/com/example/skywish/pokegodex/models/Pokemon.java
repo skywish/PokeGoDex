@@ -38,7 +38,7 @@ public class Pokemon {
     private final int baseAttack;
     private final int baseDefense;
     private final int baseStamina;
-    private int maxCP;
+    private final int maxcp;
     //    private final int maxHP;
     private final String evolutionId;
     private final int candyToEvolve;
@@ -47,10 +47,9 @@ public class Pokemon {
     private final String rarity;
 
 
-
     public Pokemon(int number, String pokemonId, String type, String type2, int baseAttack,
-                   int baseDefense, int baseStamina, String evolutionId, int candyEvolutionCost,
-                   String parentPokemonId, int kmBuddyDistance, String rarity) {
+                   int baseDefense, int baseStamina, int maxcp, String evolutionId,
+                   int candyToEvolve, String parentPokemonId, int kmBuddyDistance, String rarity) {
         this.number = number;
         this.pokemonId = pokemonId;
         this.type = type;
@@ -58,23 +57,12 @@ public class Pokemon {
         this.baseAttack = baseAttack;
         this.baseDefense = baseDefense;
         this.baseStamina = baseStamina;
+        this.maxcp = maxcp;
         this.evolutionId = evolutionId;
-        this.candyToEvolve = candyEvolutionCost;
+        this.candyToEvolve = candyToEvolve;
         this.parentPokemonId = parentPokemonId;
         this.kmBuddyDistance = kmBuddyDistance;
-        this.maxCP = calculateMaxCP(baseAttack, baseDefense, baseStamina);
         this.rarity = rarity;
-    }
-
-    private int calculateMaxCP(int baseAttack, int baseDefense, int baseStamina) {
-        return (int) ((baseAttack + 15) * Math.sqrt(baseDefense + 15) * Math.sqrt(baseStamina + 15) * (Math.pow(0.7903001, 2))) / 10;
-    }
-
-
-
-    private void calculateMaxHP(int baseStamina) {
-        // HP = (Base Stam + Stam IV) * Lvl(CPScalar)
-        //  Stamina = Floor(HP * 1.75 + 50)
     }
 
     public int getNumber() {
@@ -105,12 +93,12 @@ public class Pokemon {
         return baseStamina;
     }
 
-    public void setMaxCP(int maxCP) {
-        this.maxCP = maxCP;
+    public int getMaxcp() {
+        return maxcp;
     }
 
-    public int getMaxCP() {
-        return maxCP;
+    public String getRarity() {
+        return rarity;
     }
 
     public String getEvolutionId() {

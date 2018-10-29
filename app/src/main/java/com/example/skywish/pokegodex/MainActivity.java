@@ -9,6 +9,7 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -19,12 +20,15 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.GridView;
+import android.widget.LinearLayout;
 import android.widget.SearchView;
 import android.widget.Toast;
 
 import com.example.skywish.pokegodex.models.Pokemon;
 import com.example.skywish.pokegodex.utilities.Constants;
+import com.example.skywish.pokegodex.utilities.PokemonUtil;
 import com.example.skywish.pokegodex.widgets.PokemonAdapter;
 import com.example.skywish.pokegodex.widgets.PokemonTypeAdapter;
 import com.google.gson.Gson;
@@ -36,14 +40,17 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     private RecyclerView mRecyclerView;
-    private RecyclerView.Adapter mAdapter;
-    private RecyclerView.LayoutManager mLayoutManager;
+    private PokemonAdapter mAdapter;
+    private LinearLayoutManager mLayoutManager;
+    private final String TAG = "Scroll";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,8 +63,10 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+//                        .setAction("Action", null).show();
+//                mRecyclerView.smoothScrollToPosition(0); // 太慢了
+                mLayoutManager.scrollToPositionWithOffset(0, 0);
             }
         });
 
@@ -79,41 +88,12 @@ public class MainActivity extends AppCompatActivity
 
 
         // specify an adapter (see also next example)
-        mAdapter = new PokemonAdapter(this, getData());
+        mAdapter = new PokemonAdapter(this, getData(), mLayoutManager);
         mRecyclerView.setAdapter(mAdapter);
-
-        
-
-//        // grid type
-//        GridView gridView = findViewById(R.id.main_grid);
-//        gridView.setNestedScrollingEnabled(false);
-//        gridView.setAdapter(new PokemonTypeAdapter(this));
-//        gridView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-//            @Override
-//            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-//                Toast.makeText(getApplicationContext(), "1", Toast.LENGTH_SHORT).show();
-//            }
-//        });
-
-
-//        // Get the intent, verify the action and get the query
-//        Intent intent = getIntent();
-//        if (Intent.ACTION_SEARCH.equals(intent.getAction())) {
-//            String query = intent.getStringExtra(SearchManager.QUERY);
-//            Toast.makeText(getApplicationContext(), query, Toast.LENGTH_SHORT).show();
-//        }
     }
 
     private List<Pokemon> getData() {
         List<Pokemon> pokemonList = new ArrayList<>();
-//        Pokemon a = new Pokemon(1, "Mewtwo", R.drawable.id_150, "fighting", "electric", 400, 200, 200, "", 0, "", 20, "normal");
-//        Pokemon b = new Pokemon(2, "Mew", R.drawable.id_149, "fighting", "", 400, 200, 200, "", 0, "", 20, "normal");
-//        for (int i = 0; i < 1; i++) {
-//            pokemonList.add(a);
-//        }
-//        for (int i = 0; i < 1; i++) {
-//            pokemonList.add(b);
-//        }
         InputStream inputStream = null;
         try {
             inputStream = getAssets().open(Constants.POKEMON_DATA_FILENAME);
@@ -123,6 +103,11 @@ public class MainActivity extends AppCompatActivity
         } catch (IOException e) {
             e.printStackTrace();
         }
+        Map<String, Pokemon> map = new HashMap<>();
+        for (Pokemon p : pokemonList) {
+            map.put(p.getPokemonId(), p);
+        }
+        PokemonUtil.pokemonMap = map;
         return pokemonList;
     }
 
@@ -143,10 +128,23 @@ public class MainActivity extends AppCompatActivity
 
         // Get the SearchView and set the searchable configuration
         SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
-        SearchView searchView = (SearchView) menu.findItem(R.id.search).getActionView();
+        SearchView searchView = (SearchView) menu.findItem(R.id.action_search).getActionView();
         // Assumes current activity is the searchable activity
         searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
         searchView.setIconifiedByDefault(false); // Do not iconify the widget; expand it by default
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String s) {
+                mAdapter.filter(s);
+                return true;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String s) {
+                mAdapter.filter(s);
+                return true;
+            }
+        });
         return true;
     }
 

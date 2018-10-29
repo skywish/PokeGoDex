@@ -1,13 +1,17 @@
 package com.example.skywish.pokegodex.widgets;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.drawable.GradientDrawable;
 import android.graphics.drawable.ShapeDrawable;
 import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
+import android.support.v7.util.SortedList;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.util.SortedListAdapterCallback;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,8 +20,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.skywish.pokegodex.DetailActivity;
 import com.example.skywish.pokegodex.R;
 import com.example.skywish.pokegodex.models.Pokemon;
+import com.example.skywish.pokegodex.utilities.Constants;
 import com.example.skywish.pokegodex.utilities.PokemonUtil;
 
 import java.util.Collections;
@@ -30,9 +36,12 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
     private static final int TYPE_HEADER = 0;
     private static final int TYPE_ITEM = 1;
 
-    private List<Pokemon> mDataset;
+    private SortedList<Pokemon> mDataset;
     private List<Pokemon> originalData;
-    private static String TAG = "Adapter";
+    private List<Pokemon> tempData;
+    private PokemonSortedCallback pokemonSortedCallback;
+    private LinearLayoutManager layoutManager;
+    private final String TAG = "Scroll";
     private Context context;
     private Map<String, Integer> colorMap;
 
@@ -57,7 +66,6 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
 
         public PokemonViewHolder(View itemView) {
             super(itemView);
-            Log.d(TAG, "PokemonViewHolder: " + itemView);
             mTvNumber = itemView.findViewById(R.id.item_number);
             mIvImg = itemView.findViewById(R.id.item_poke_img);
             mTvName = itemView.findViewById(R.id.item_name);
@@ -89,9 +97,13 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
         }
     }
 
-    public PokemonAdapter(Context context, List<Pokemon> mDataset) {
+    public PokemonAdapter(Context context, List<Pokemon> mDataset, LinearLayoutManager layoutManager) {
         this.context = context;
-        this.mDataset = mDataset;
+        this.layoutManager = layoutManager;
+        pokemonSortedCallback = new PokemonSortedCallback(this);
+        this.mDataset = new SortedList<>(Pokemon.class, pokemonSortedCallback);
+        reset(mDataset);
+        originalData = mDataset;
 
         colorMap = new HashMap<>();
         String[] strings = {"Bug", "Dark", "Dragon", "Electric", "Fairy", "Fighting", "Fire", "Flying",
@@ -127,10 +139,23 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
         if (holder instanceof PokemonViewHolder) {
             // position 0 is header
-            Pokemon pokemon = mDataset.get(position - 1);
+            final Pokemon pokemon = mDataset.get(position - 1);
             PokemonViewHolder pokemonViewHolder = (PokemonViewHolder) holder;
+
             pokemonViewHolder.mTvNumber.setText(String.valueOf(pokemon.getNumber()));
+
             pokemonViewHolder.mTvName.setText(pokemon.getPokemonId());
+            pokemonViewHolder.mTvName.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    Intent intent = new Intent(context, DetailActivity.class);
+                    String message = pokemon.getPokemonId();
+                    intent.putExtra("pokemonId", message);
+                    context.startActivity(intent);
+                }
+            });
+
+
             pokemonViewHolder.mTvType1.setText(pokemon.getType());
             setBackgroundColor(pokemonViewHolder.mTvType1, pokemon.getType());
             if (pokemon.getType2().isEmpty()) {
@@ -140,17 +165,11 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
                 pokemonViewHolder.mTvType2.setText(pokemon.getType2());
                 setBackgroundColor(pokemonViewHolder.mTvType2, pokemon.getType2());
             }
-            int att = pokemon.getBaseAttack();
-            int def = pokemon.getBaseDefense();
-            int sta = pokemon.getBaseStamina();
 
             pokemonViewHolder.mTvAttack.setText(String.valueOf(pokemon.getBaseAttack()));
             pokemonViewHolder.mTvDefense.setText(String.valueOf(pokemon.getBaseDefense()));
             pokemonViewHolder.mTvStamina.setText(String.valueOf(pokemon.getBaseStamina()));
-
-            int maxCP = PokemonUtil.calculateMaxCP(att, def, sta);
-            pokemon.setMaxCP(maxCP);
-            pokemonViewHolder.mTvMaxCP.setText(String.valueOf(maxCP));
+            pokemonViewHolder.mTvMaxCP.setText(String.valueOf(pokemon.getMaxcp()));
 
             // 获取图像
             TypedArray typedArray = context.getResources().obtainTypedArray(R.array.pokemons);
@@ -162,103 +181,49 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
             headerViewHolder.mTvNumber.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Collections.sort(mDataset, new Comparator<Pokemon>() {
-                        @Override
-                        public int compare(Pokemon p1, Pokemon p2) {
-                            numClick = !numClick;
-                            if (numClick) {
-                                return Integer.compare(p2.getNumber(), p1.getNumber());
-                            } else {
-                                return Integer.compare(p1.getNumber(), p2.getNumber());
-                            }
-                        }
-                    });
-                    notifyDataSetChanged();
+                    pokemonSortedCallback.setSortType(Constants.PokemonSortType.NUMBER);
+                    reset(originalData);
+//                    layoutManager.scrollToPosition(0);
                 }
             });
             headerViewHolder.mTvName.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Collections.sort(mDataset, new Comparator<Pokemon>() {
-                        @Override
-                        public int compare(Pokemon p1, Pokemon p2) {
-                            nameClick = !nameClick;
-                            if (nameClick) {
-                                return p1.getPokemonId().compareTo(p2.getPokemonId());
-                            } else {
-                                return p2.getPokemonId().compareTo(p1.getPokemonId());
-                            }
-                        }
-                    });
-                    notifyDataSetChanged();
+                    pokemonSortedCallback.setSortType(Constants.PokemonSortType.NAME);
+                    reset(originalData);
+//                    layoutManager.scrollToPosition(0);
                 }
             });
             headerViewHolder.mTvMaxCP.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Collections.sort(mDataset, new Comparator<Pokemon>() {
-                        @Override
-                        public int compare(Pokemon p1, Pokemon p2) {
-                            cpClick = !cpClick;
-                            if (cpClick) {
-                                return Integer.compare(p2.getMaxCP(), p1.getMaxCP());
-                            } else {
-                                return Integer.compare(p1.getMaxCP(), p2.getMaxCP());
-                            }
-                        }
-                    });
-                    notifyDataSetChanged();
+                    pokemonSortedCallback.setSortType(Constants.PokemonSortType.MAXCP);
+                    reset(originalData);
+//                    layoutManager.scrollToPosition(0);
                 }
             });
             headerViewHolder.mTvAttack.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Collections.sort(mDataset, new Comparator<Pokemon>() {
-                        @Override
-                        public int compare(Pokemon p1, Pokemon p2) {
-                            attClick = !attClick;
-                            if (attClick) {
-                                return Integer.compare(p2.getBaseAttack(), p1.getBaseAttack());
-                            } else {
-                                return Integer.compare(p1.getBaseAttack(), p2.getBaseAttack());
-                            }
-                        }
-                    });
-                    notifyDataSetChanged();
+                    pokemonSortedCallback.setSortType(Constants.PokemonSortType.ATTACK);
+                    reset(originalData);
+//                    layoutManager.scrollToPosition(0);
                 }
             });
             headerViewHolder.mTvDefense.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Collections.sort(mDataset, new Comparator<Pokemon>() {
-                        @Override
-                        public int compare(Pokemon p1, Pokemon p2) {
-                            defClick = !defClick;
-                            if (defClick) {
-                                return Integer.compare(p2.getBaseDefense(), p1.getBaseDefense());
-                            } else {
-                                return Integer.compare(p1.getBaseDefense(), p2.getBaseDefense());
-                            }
-                        }
-                    });
-                    notifyDataSetChanged();
+                    pokemonSortedCallback.setSortType(Constants.PokemonSortType.DEFENSE);
+                    reset(originalData);
+//                    layoutManager.scrollToPosition(0);
                 }
             });
             headerViewHolder.mTvStamina.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    Collections.sort(mDataset, new Comparator<Pokemon>() {
-                        @Override
-                        public int compare(Pokemon p1, Pokemon p2) {
-                            staClick = !staClick;
-                            if (staClick) {
-                                return Integer.compare(p2.getBaseStamina(), p1.getBaseStamina());
-                            } else {
-                                return Integer.compare(p1.getBaseStamina(), p2.getBaseStamina());
-                            }
-                        }
-                    });
-                    notifyDataSetChanged();
+                    pokemonSortedCallback.setSortType(Constants.PokemonSortType.STAMINA);
+                    reset(originalData);
+//                    layoutManager.scrollToPosition(0);
                 }
             });
         }
@@ -281,5 +246,31 @@ public class PokemonAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
         // 改变type颜色
         GradientDrawable gd = (GradientDrawable) textView.getBackground();
         gd.setColor(ContextCompat.getColor(context, colorMap.get(type)));
+    }
+
+    private void reset(List<Pokemon> list) {
+        Log.d(TAG, "reset: ");
+        mDataset.beginBatchedUpdates();
+        mDataset.clear();
+        mDataset.addAll(list);
+        mDataset.endBatchedUpdates();
+        notifyDataSetChanged();
+    }
+
+    public void filter(String text) {
+        mDataset.beginBatchedUpdates();
+        mDataset.clear();
+        if(text.isEmpty()){
+            mDataset.addAll(originalData);
+        } else{
+            text = text.toLowerCase();
+            for(Pokemon item: originalData){
+                if(item.getPokemonId().toLowerCase().contains(text)){
+                    mDataset.add(item);
+                }
+            }
+        }
+        mDataset.endBatchedUpdates();
+        notifyDataSetChanged();
     }
 }

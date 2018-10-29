@@ -125,4 +125,5 @@
     <string name="list_head_column4">ATT</string>
     <string name="list_head_column5">DEF</string>
     <string name="list_head_column6">STA</string>
+    <string name="title_activity_detail">DetailActivity</string>
 </resources>

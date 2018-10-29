@@ -11,7 +11,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 981
     },
     {
         "number": 2,
@@ -25,7 +26,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Bulbasaur",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1552
     },
     {
         "number": 3,
@@ -39,7 +41,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Ivysaur",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2568
     },
     {
         "number": 4,
@@ -53,7 +56,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 831
     },
     {
         "number": 5,
@@ -67,7 +71,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Charmander",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1484
     },
     {
         "number": 6,
@@ -81,7 +86,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Charmeleon",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2686
     },
     {
         "number": 7,
@@ -95,7 +101,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 808
     },
     {
         "number": 8,
@@ -109,7 +116,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Squirtle",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1324
     },
     {
         "number": 9,
@@ -123,7 +131,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wartortle",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2291
     },
     {
         "number": 10,
@@ -137,7 +146,8 @@
         "candyToEvolve": 12,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 393
     },
     {
         "number": 11,
@@ -151,7 +161,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "Caterpie",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 419
     },
     {
         "number": 12,
@@ -165,7 +176,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Metapod",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1701
     },
     {
         "number": 13,
@@ -179,7 +191,8 @@
         "candyToEvolve": 12,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 397
     },
     {
         "number": 14,
@@ -193,7 +206,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "Weedle",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 392
     },
     {
         "number": 15,
@@ -207,7 +221,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Kakuna",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1777
     },
     {
         "number": 16,
@@ -221,7 +236,8 @@
         "candyToEvolve": 12,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 580
     },
     {
         "number": 17,
@@ -235,7 +251,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "Pidgey",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1085
     },
     {
         "number": 18,
@@ -249,7 +266,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Pidgeotto",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1994
     },
     {
         "number": 19,
@@ -263,7 +281,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 588
     },
     {
         "number": 19,
@@ -277,7 +296,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 588
     },
     {
         "number": 20,
@@ -291,7 +311,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Rattata",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1549
     },
     {
         "number": 20,
@@ -305,7 +326,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Rattata",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1587
     },
     {
         "number": 21,
@@ -319,7 +341,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 673
     },
     {
         "number": 22,
@@ -333,7 +356,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Spearow",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1814
     },
     {
         "number": 23,
@@ -347,7 +371,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 778
     },
     {
         "number": 24,
@@ -361,7 +386,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Ekans",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1737
     },
     {
         "number": 25,
@@ -375,7 +401,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "Pichu",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 787
     },
     {
         "number": 26,
@@ -389,7 +416,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Pikachu",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2025
     },
     {
         "number": 26,
@@ -403,7 +431,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Pikachu",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2143
     },
     {
         "number": 27,
@@ -417,7 +446,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1194
     },
     {
         "number": 27,
@@ -431,7 +461,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1219
     },
     {
         "number": 28,
@@ -445,7 +476,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Sandshrew",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2328
     },
     {
         "number": 28,
@@ -459,7 +491,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Sandshrew",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2366
     },
     {
         "number": 29,
@@ -473,7 +506,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 736
     },
     {
         "number": 30,
@@ -487,7 +521,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Nidoran_female",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1218
     },
     {
         "number": 31,
@@ -501,7 +536,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Nidorina",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2338
     },
     {
         "number": 32,
@@ -515,7 +551,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 739
     },
     {
         "number": 33,
@@ -529,7 +566,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Nidoran_male",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1252
     },
     {
         "number": 34,
@@ -543,7 +581,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Nidorino",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2386
     },
     {
         "number": 35,
@@ -557,7 +596,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "Cleffa",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1085
     },
     {
         "number": 36,
@@ -571,7 +611,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Clefairy",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2353
     },
     {
         "number": 37,
@@ -585,7 +626,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 774
     },
     {
         "number": 37,
@@ -599,7 +641,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 774
     },
     {
         "number": 38,
@@ -613,7 +656,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Vulpix",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2157
     },
     {
         "number": 38,
@@ -627,7 +671,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Vulpix",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2184
     },
     {
         "number": 39,
@@ -641,7 +686,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "Igglybuff",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 713
     },
     {
         "number": 40,
@@ -655,7 +701,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Jigglypuff",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1906
     },
     {
         "number": 41,
@@ -669,7 +716,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 569
     },
     {
         "number": 42,
@@ -683,7 +731,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Zubat",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1830
     },
     {
         "number": 43,
@@ -697,7 +746,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1069
     },
     {
         "number": 44,
@@ -711,7 +761,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Oddish",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1512
     },
     {
         "number": 45,
@@ -725,7 +776,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Gloom",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2367
     },
     {
         "number": 46,
@@ -739,7 +791,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 836
     },
     {
         "number": 47,
@@ -753,7 +806,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Paras",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1657
     },
     {
         "number": 48,
@@ -767,7 +821,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 902
     },
     {
         "number": 49,
@@ -781,7 +836,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Venonat",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1937
     },
     {
         "number": 50,
@@ -795,7 +851,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 465
     },
     {
         "number": 50,
@@ -809,7 +866,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 467
     },
     {
         "number": 51,
@@ -823,7 +881,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Diglett",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1333
     },
     {
         "number": 51,
@@ -837,7 +896,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Diglett",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1587
     },
     {
         "number": 52,
@@ -851,7 +911,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 638
     },
     {
         "number": 52,
@@ -865,7 +926,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 679
     },
     {
         "number": 53,
@@ -879,7 +941,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Meowth",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1539
     },
     {
         "number": 53,
@@ -893,7 +956,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Meowth",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1614
     },
     {
         "number": 54,
@@ -907,7 +971,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 966
     },
     {
         "number": 55,
@@ -921,7 +986,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Psyduck",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2270
     },
     {
         "number": 56,
@@ -935,7 +1001,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1002
     },
     {
         "number": 57,
@@ -949,7 +1016,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Mankey",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2105
     },
     {
         "number": 58,
@@ -963,7 +1031,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1110
     },
     {
         "number": 59,
@@ -977,7 +1046,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Growlithe",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2839
     },
     {
         "number": 60,
@@ -991,7 +1061,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 695
     },
     {
         "number": 61,
@@ -1005,7 +1076,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Poliwag",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1313
     },
     {
         "number": 62,
@@ -1019,7 +1091,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Poliwhirl",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2441
     },
     {
         "number": 63,
@@ -1033,7 +1106,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1148
     },
     {
         "number": 64,
@@ -1047,7 +1121,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Abra",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1859
     },
     {
         "number": 65,
@@ -1061,7 +1136,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Kadabra",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2887
     },
     {
         "number": 66,
@@ -1075,7 +1151,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1199
     },
     {
         "number": 67,
@@ -1089,7 +1166,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Machop",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1910
     },
     {
         "number": 68,
@@ -1103,7 +1181,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Machoke",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2889
     },
     {
         "number": 69,
@@ -1117,7 +1196,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 916
     },
     {
         "number": 70,
@@ -1131,7 +1211,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Bellsprout",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1475
     },
     {
         "number": 71,
@@ -1145,7 +1226,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Weepinbell",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2268
     },
     {
         "number": 72,
@@ -1159,7 +1241,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 956
     },
     {
         "number": 73,
@@ -1173,7 +1256,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Tentacool",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2374
     },
     {
         "number": 74,
@@ -1187,7 +1271,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1193
     },
     {
         "number": 74,
@@ -1201,7 +1286,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1193
     },
     {
         "number": 75,
@@ -1215,7 +1301,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Geodude",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1815
     },
     {
         "number": 75,
@@ -1229,7 +1316,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Geodude",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1815
     },
     {
         "number": 76,
@@ -1243,7 +1331,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Graveler",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2916
     },
     {
         "number": 76,
@@ -1257,7 +1346,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Graveler",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2916
     },
     {
         "number": 77,
@@ -1271,7 +1361,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1502
     },
     {
         "number": 78,
@@ -1285,7 +1376,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Ponyta",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2252
     },
     {
         "number": 79,
@@ -1299,7 +1391,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1204
     },
     {
         "number": 80,
@@ -1313,7 +1406,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Slowpoke",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2482
     },
     {
         "number": 81,
@@ -1327,7 +1421,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1083
     },
     {
         "number": 82,
@@ -1341,7 +1436,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Magnemite",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2237
     },
     {
         "number": 83,
@@ -1355,7 +1451,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1092
     },
     {
         "number": 84,
@@ -1369,7 +1466,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1011
     },
     {
         "number": 85,
@@ -1383,7 +1481,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Doduo",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2138
     },
     {
         "number": 86,
@@ -1397,7 +1496,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 899
     },
     {
         "number": 87,
@@ -1411,7 +1511,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Seel",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1894
     },
     {
         "number": 88,
@@ -1425,7 +1526,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1269
     },
     {
         "number": 88,
@@ -1439,7 +1541,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1269
     },
     {
         "number": 89,
@@ -1453,7 +1556,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Grimer",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2709
     },
     {
         "number": 89,
@@ -1467,7 +1571,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Grimer",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2709
     },
     {
         "number": 90,
@@ -1481,7 +1586,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 958
     },
     {
         "number": 91,
@@ -1495,7 +1601,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Shellder",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2475
     },
     {
         "number": 92,
@@ -1509,7 +1616,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1002
     },
     {
         "number": 93,
@@ -1523,7 +1631,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Gastly",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1716
     },
     {
         "number": 94,
@@ -1537,7 +1646,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Haunter",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2619
     },
     {
         "number": 95,
@@ -1551,7 +1661,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1002
     },
     {
         "number": 96,
@@ -1565,7 +1676,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 992
     },
     {
         "number": 97,
@@ -1579,7 +1691,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Drowzee",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2048
     },
     {
         "number": 98,
@@ -1593,7 +1706,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1386
     },
     {
         "number": 99,
@@ -1607,7 +1721,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Krabby",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2694
     },
     {
         "number": 100,
@@ -1621,7 +1736,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 857
     },
     {
         "number": 101,
@@ -1635,7 +1751,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Voltorb",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1900
     },
     {
         "number": 102,
@@ -1649,7 +1766,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1102
     },
     {
         "number": 103,
@@ -1663,7 +1781,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Exeggcute",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2916
     },
     {
         "number": 103,
@@ -1677,7 +1796,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Exeggcute",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2881
     },
     {
         "number": 104,
@@ -1691,7 +1811,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 943
     },
     {
         "number": 105,
@@ -1705,7 +1826,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Cubone",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1691
     },
     {
         "number": 105,
@@ -1719,7 +1841,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Cubone",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1691
     },
     {
         "number": 106,
@@ -1733,7 +1856,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Tyrogue",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2406
     },
     {
         "number": 107,
@@ -1747,7 +1871,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Tyrogue",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2098
     },
     {
         "number": 108,
@@ -1761,7 +1886,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1322
     },
     {
         "number": 109,
@@ -1775,7 +1901,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1091
     },
     {
         "number": 110,
@@ -1789,7 +1916,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Koffing",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2183
     },
     {
         "number": 111,
@@ -1803,7 +1931,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1679
     },
     {
         "number": 112,
@@ -1817,7 +1946,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Rhyhorn",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3300
     },
     {
         "number": 113,
@@ -1831,7 +1961,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1469
     },
     {
         "number": 114,
@@ -1845,7 +1976,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2208
     },
     {
         "number": 115,
@@ -1859,7 +1991,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2463
     },
     {
         "number": 116,
@@ -1873,7 +2006,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 921
     },
     {
         "number": 117,
@@ -1887,7 +2021,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Horsea",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1979
     },
     {
         "number": 118,
@@ -1901,7 +2036,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1007
     },
     {
         "number": 119,
@@ -1915,7 +2051,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Goldeen",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2040
     },
     {
         "number": 120,
@@ -1929,7 +2066,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 926
     },
     {
         "number": 121,
@@ -1943,7 +2081,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Staryu",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2303
     },
     {
         "number": 122,
@@ -1957,7 +2096,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1984
     },
     {
         "number": 123,
@@ -1971,7 +2111,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2464
     },
     {
         "number": 124,
@@ -1985,7 +2126,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Smoochum",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2512
     },
     {
         "number": 125,
@@ -1999,7 +2141,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Elekid",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2196
     },
     {
         "number": 126,
@@ -2013,7 +2156,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Magby",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2254
     },
     {
         "number": 127,
@@ -2027,7 +2171,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2770
     },
     {
         "number": 128,
@@ -2041,7 +2186,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2488
     },
     {
         "number": 129,
@@ -2055,7 +2201,8 @@
         "candyToEvolve": 400,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 220
     },
     {
         "number": 130,
@@ -2069,7 +2216,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Magikarp",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3281
     },
     {
         "number": 131,
@@ -2083,7 +2231,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2603
     },
     {
         "number": 132,
@@ -2097,7 +2246,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 718
     },
     {
         "number": 133,
@@ -2111,7 +2261,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 969
     },
     {
         "number": 134,
@@ -2125,7 +2276,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3157
     },
     {
         "number": 135,
@@ -2139,7 +2291,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2730
     },
     {
         "number": 136,
@@ -2153,7 +2306,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2904
     },
     {
         "number": 137,
@@ -2167,7 +2321,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1567
     },
     {
         "number": 138,
@@ -2181,7 +2336,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1345
     },
     {
         "number": 139,
@@ -2195,7 +2351,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Omanyte",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2685
     },
     {
         "number": 140,
@@ -2209,7 +2366,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1172
     },
     {
         "number": 141,
@@ -2223,7 +2381,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Kabuto",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2517
     },
     {
         "number": 142,
@@ -2237,7 +2396,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2608
     },
     {
         "number": 143,
@@ -2251,7 +2411,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3355
     },
     {
         "number": 144,
@@ -2265,7 +2426,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 2933
     },
     {
         "number": 145,
@@ -2279,7 +2441,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3330
     },
     {
         "number": 146,
@@ -2293,7 +2456,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3272
     },
     {
         "number": 147,
@@ -2307,7 +2471,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 860
     },
     {
         "number": 148,
@@ -2321,7 +2486,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Dratini",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1609
     },
     {
         "number": 149,
@@ -2335,7 +2501,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Dragonair",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3581
     },
     {
         "number": 150,
@@ -2349,7 +2516,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3982
     },
     {
         "number": 151,
@@ -2363,7 +2531,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3090
     },
     {
         "number": 152,
@@ -2377,7 +2546,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 801
     },
     {
         "number": 153,
@@ -2391,7 +2561,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Chikorita",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1296
     },
     {
         "number": 154,
@@ -2405,7 +2576,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Bayleef",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2227
     },
     {
         "number": 155,
@@ -2419,7 +2591,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 831
     },
     {
         "number": 156,
@@ -2433,7 +2606,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Cyndaquil",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1484
     },
     {
         "number": 157,
@@ -2447,7 +2621,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Quilava",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2686
     },
     {
         "number": 158,
@@ -2461,7 +2636,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1011
     },
     {
         "number": 159,
@@ -2475,7 +2651,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Totodile",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1598
     },
     {
         "number": 160,
@@ -2489,7 +2666,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Croconaw",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2721
     },
     {
         "number": 161,
@@ -2503,7 +2681,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 519
     },
     {
         "number": 162,
@@ -2517,7 +2696,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Sentret",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1667
     },
     {
         "number": 163,
@@ -2531,7 +2711,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 640
     },
     {
         "number": 164,
@@ -2545,7 +2726,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Hoothoot",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2040
     },
     {
         "number": 165,
@@ -2559,7 +2741,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 663
     },
     {
         "number": 166,
@@ -2573,7 +2756,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Ledyba",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1275
     },
     {
         "number": 167,
@@ -2587,7 +2771,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 685
     },
     {
         "number": 168,
@@ -2601,7 +2786,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Spinarak",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1636
     },
     {
         "number": 169,
@@ -2615,7 +2801,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Golbat",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2466
     },
     {
         "number": 170,
@@ -2629,7 +2816,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1067
     },
     {
         "number": 171,
@@ -2643,7 +2831,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Chinchou",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2077
     },
     {
         "number": 172,
@@ -2657,7 +2846,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 376
     },
     {
         "number": 173,
@@ -2671,7 +2861,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 620
     },
     {
         "number": 174,
@@ -2685,7 +2876,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 512
     },
     {
         "number": 175,
@@ -2699,7 +2891,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 540
     },
     {
         "number": 176,
@@ -2713,7 +2906,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Togepi",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1543
     },
     {
         "number": 177,
@@ -2727,7 +2921,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 925
     },
     {
         "number": 178,
@@ -2741,7 +2936,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Natu",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1975
     },
     {
         "number": 179,
@@ -2755,7 +2951,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 887
     },
     {
         "number": 180,
@@ -2769,7 +2966,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Mareep",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1402
     },
     {
         "number": 181,
@@ -2783,7 +2981,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Flaaffy",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2695
     },
     {
         "number": 182,
@@ -2797,7 +2996,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Gloom",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2108
     },
     {
         "number": 183,
@@ -2811,7 +3011,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Azurill",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 420
     },
     {
         "number": 184,
@@ -2825,7 +3026,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Marill",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1503
     },
     {
         "number": 185,
@@ -2839,7 +3041,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2065
     },
     {
         "number": 186,
@@ -2853,7 +3056,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Poliwhirl",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2371
     },
     {
         "number": 187,
@@ -2867,7 +3071,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 508
     },
     {
         "number": 188,
@@ -2881,7 +3086,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Hoppip",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 882
     },
     {
         "number": 189,
@@ -2895,7 +3101,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Skiploom",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1553
     },
     {
         "number": 190,
@@ -2909,7 +3116,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1188
     },
     {
         "number": 191,
@@ -2923,7 +3131,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 316
     },
     {
         "number": 192,
@@ -2937,7 +3146,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Sunkern",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2048
     },
     {
         "number": 193,
@@ -2951,7 +3161,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1326
     },
     {
         "number": 194,
@@ -2965,7 +3176,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 596
     },
     {
         "number": 195,
@@ -2979,7 +3191,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wooper",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1929
     },
     {
         "number": 196,
@@ -2993,7 +3206,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3000
     },
     {
         "number": 197,
@@ -3007,7 +3221,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2052
     },
     {
         "number": 198,
@@ -3021,7 +3236,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1392
     },
     {
         "number": 199,
@@ -3035,7 +3251,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Slowpoke",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2482
     },
     {
         "number": 200,
@@ -3049,7 +3266,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1781
     },
     {
         "number": 201,
@@ -3063,7 +3281,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1022
     },
     {
         "number": 202,
@@ -3077,7 +3296,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wynaut",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1024
     },
     {
         "number": 203,
@@ -3091,7 +3311,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1863
     },
     {
         "number": 204,
@@ -3105,7 +3326,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1045
     },
     {
         "number": 205,
@@ -3119,7 +3341,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Pineco",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2263
     },
     {
         "number": 206,
@@ -3133,7 +3356,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1615
     },
     {
         "number": 207,
@@ -3147,7 +3371,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1758
     },
     {
         "number": 208,
@@ -3161,7 +3386,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Onix",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2439
     },
     {
         "number": 209,
@@ -3175,7 +3401,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1124
     },
     {
         "number": 210,
@@ -3189,7 +3416,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Snubbull",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2440
     },
     {
         "number": 211,
@@ -3203,7 +3431,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1910
     },
     {
         "number": 212,
@@ -3217,7 +3446,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Scyther",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2801
     },
     {
         "number": 213,
@@ -3231,7 +3461,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 300
     },
     {
         "number": 214,
@@ -3245,7 +3476,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2938
     },
     {
         "number": 215,
@@ -3259,7 +3491,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1868
     },
     {
         "number": 216,
@@ -3273,7 +3506,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1184
     },
     {
         "number": 217,
@@ -3287,7 +3521,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Teddiursa",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2760
     },
     {
         "number": 218,
@@ -3301,7 +3536,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 750
     },
     {
         "number": 219,
@@ -3315,7 +3551,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Slugma",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1543
     },
     {
         "number": 220,
@@ -3329,7 +3566,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 663
     },
     {
         "number": 221,
@@ -3343,7 +3581,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Swinub",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2284
     },
     {
         "number": 222,
@@ -3357,7 +3596,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1214
     },
     {
         "number": 223,
@@ -3371,7 +3611,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 749
     },
     {
         "number": 224,
@@ -3385,7 +3626,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Remoraid",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2124
     },
     {
         "number": 225,
@@ -3399,7 +3641,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 937
     },
     {
         "number": 226,
@@ -3413,7 +3656,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2032
     },
     {
         "number": 227,
@@ -3427,7 +3671,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2032
     },
     {
         "number": 228,
@@ -3441,7 +3686,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1110
     },
     {
         "number": 229,
@@ -3455,7 +3701,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Houndour",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2529
     },
     {
         "number": 230,
@@ -3469,7 +3716,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Seadra",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2424
     },
     {
         "number": 231,
@@ -3483,7 +3731,8 @@
         "candyToEvolve": 50,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1175
     },
     {
         "number": 232,
@@ -3497,7 +3746,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Phanpy",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3022
     },
     {
         "number": 233,
@@ -3511,7 +3761,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Porygon",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2546
     },
     {
         "number": 234,
@@ -3525,7 +3776,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1988
     },
     {
         "number": 235,
@@ -3539,7 +3791,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 389
     },
     {
         "number": 236,
@@ -3553,7 +3806,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 404
     },
     {
         "number": 237,
@@ -3567,7 +3821,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Tyrogue",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1905
     },
     {
         "number": 238,
@@ -3581,7 +3836,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1230
     },
     {
         "number": 239,
@@ -3595,7 +3851,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1073
     },
     {
         "number": 240,
@@ -3609,7 +3866,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1178
     },
     {
         "number": 241,
@@ -3623,7 +3881,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2312
     },
     {
         "number": 242,
@@ -3637,7 +3896,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Chansey",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3219
     },
     {
         "number": 243,
@@ -3651,7 +3911,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3349
     },
     {
         "number": 244,
@@ -3665,7 +3926,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3377
     },
     {
         "number": 245,
@@ -3679,7 +3941,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 2823
     },
     {
         "number": 246,
@@ -3693,7 +3956,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 904
     },
     {
         "number": 247,
@@ -3707,7 +3971,8 @@
         "candyToEvolve": 100,
         "parentPokemonId": "Larvitar",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1608
     },
     {
         "number": 248,
@@ -3721,7 +3986,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Pupitar",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3670
     },
     {
         "number": 249,
@@ -3735,7 +4001,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3598
     },
     {
         "number": 250,
@@ -3749,7 +4016,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3889
     },
     {
         "number": 251,
@@ -3763,7 +4031,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3090
     },
     {
         "number": 252,
@@ -3777,7 +4046,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 923
     },
     {
         "number": 253,
@@ -3791,7 +4061,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Treecko",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1508
     },
     {
         "number": 254,
@@ -3805,7 +4076,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Grovyle",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2584
     },
     {
         "number": 255,
@@ -3819,7 +4091,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 959
     },
     {
         "number": 256,
@@ -3833,7 +4106,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Torchic",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1472
     },
     {
         "number": 257,
@@ -3847,7 +4121,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Combusken",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2631
     },
     {
         "number": 258,
@@ -3861,7 +4136,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 981
     },
     {
         "number": 259,
@@ -3875,7 +4151,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Mudkip",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1617
     },
     {
         "number": 260,
@@ -3889,7 +4166,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Marshtomp",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2815
     },
     {
         "number": 261,
@@ -3903,7 +4181,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 564
     },
     {
         "number": 262,
@@ -3917,7 +4196,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Poochyena",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1783
     },
     {
         "number": 263,
@@ -3931,7 +4211,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 423
     },
     {
         "number": 264,
@@ -3945,7 +4226,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Zigzagoon",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1533
     },
     {
         "number": 265,
@@ -3959,7 +4241,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 502
     },
     {
         "number": 266,
@@ -3973,7 +4256,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wurmple",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 517
     },
     {
         "number": 267,
@@ -3987,7 +4271,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Silcoon",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1573
     },
     {
         "number": 268,
@@ -4001,7 +4286,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wurmple",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 517
     },
     {
         "number": 269,
@@ -4015,7 +4301,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Cascoon",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1121
     },
     {
         "number": 270,
@@ -4029,7 +4316,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 526
     },
     {
         "number": 271,
@@ -4043,7 +4331,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Lotad",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1102
     },
     {
         "number": 272,
@@ -4057,7 +4346,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Lombre",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2229
     },
     {
         "number": 273,
@@ -4071,7 +4361,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 526
     },
     {
         "number": 274,
@@ -4085,7 +4376,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Seedot",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1117
     },
     {
         "number": 275,
@@ -4099,7 +4391,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Nuzleaf",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2186
     },
     {
         "number": 276,
@@ -4113,7 +4406,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 642
     },
     {
         "number": 277,
@@ -4127,7 +4421,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Taillow",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1747
     },
     {
         "number": 278,
@@ -4141,7 +4436,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 642
     },
     {
         "number": 279,
@@ -4155,7 +4451,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wingull",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1969
     },
     {
         "number": 280,
@@ -4169,7 +4466,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 436
     },
     {
         "number": 281,
@@ -4183,7 +4481,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Ralts",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 843
     },
     {
         "number": 282,
@@ -4197,7 +4496,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Kirlia",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2964
     },
     {
         "number": 283,
@@ -4211,7 +4511,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 695
     },
     {
         "number": 284,
@@ -4225,7 +4526,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Surskit",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2135
     },
     {
         "number": 285,
@@ -4239,7 +4541,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 722
     },
     {
         "number": 286,
@@ -4253,7 +4556,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Shroomish",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2407
     },
     {
         "number": 287,
@@ -4267,7 +4571,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 942
     },
     {
         "number": 288,
@@ -4281,7 +4586,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Slakoth",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1896
     },
     {
         "number": 289,
@@ -4295,7 +4601,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Vigoroth",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 4548
     },
     {
         "number": 290,
@@ -4309,7 +4616,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 674
     },
     {
         "number": 291,
@@ -4323,7 +4631,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Nincada",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1751
     },
     {
         "number": 292,
@@ -4337,7 +4646,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Nincada",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 421
     },
     {
         "number": 293,
@@ -4351,7 +4661,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 603
     },
     {
         "number": 294,
@@ -4365,7 +4676,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Whismur",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1233
     },
     {
         "number": 295,
@@ -4379,7 +4691,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Loudred",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2267
     },
     {
         "number": 296,
@@ -4393,7 +4706,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 745
     },
     {
         "number": 297,
@@ -4407,7 +4721,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Makuhita",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2765
     },
     {
         "number": 298,
@@ -4417,11 +4732,12 @@
         "baseAttack": 36,
         "baseDefense": 71,
         "baseStamina": 100,
-        "evolutionId": "",
+        "evolutionId": "Marill",
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 316
     },
     {
         "number": 299,
@@ -4435,7 +4751,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 831
     },
     {
         "number": 300,
@@ -4449,7 +4766,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 659
     },
     {
         "number": 301,
@@ -4463,7 +4781,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Skitty",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1385
     },
     {
         "number": 302,
@@ -4477,7 +4796,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1305
     },
     {
         "number": 303,
@@ -4491,7 +4811,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1484
     },
     {
         "number": 304,
@@ -4505,7 +4826,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1232
     },
     {
         "number": 305,
@@ -4519,7 +4841,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Aron",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2004
     },
     {
         "number": 306,
@@ -4533,7 +4856,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Lairon",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3004
     },
     {
         "number": 307,
@@ -4547,7 +4871,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 555
     },
     {
         "number": 308,
@@ -4561,7 +4886,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Meditite",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1275
     },
     {
         "number": 309,
@@ -4575,7 +4901,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 810
     },
     {
         "number": 310,
@@ -4589,7 +4916,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Electrike",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2131
     },
     {
         "number": 311,
@@ -4603,7 +4931,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1681
     },
     {
         "number": 312,
@@ -4617,7 +4946,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1585
     },
     {
         "number": 313,
@@ -4631,7 +4961,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1620
     },
     {
         "number": 314,
@@ -4645,7 +4976,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1620
     },
     {
         "number": 315,
@@ -4659,7 +4991,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1718
     },
     {
         "number": 316,
@@ -4673,7 +5006,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 788
     },
     {
         "number": 317,
@@ -4687,7 +5021,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Gulpin",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1872
     },
     {
         "number": 318,
@@ -4701,7 +5036,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 874
     },
     {
         "number": 319,
@@ -4715,7 +5051,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Carvanha",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1986
     },
     {
         "number": 320,
@@ -4729,7 +5066,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1424
     },
     {
         "number": 321,
@@ -4743,7 +5081,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Wailmer",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2258
     },
     {
         "number": 322,
@@ -4757,7 +5096,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 957
     },
     {
         "number": 323,
@@ -4771,7 +5111,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Numel",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2016
     },
     {
         "number": 324,
@@ -4785,7 +5126,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2036
     },
     {
         "number": 325,
@@ -4799,7 +5141,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1285
     },
     {
         "number": 326,
@@ -4813,7 +5156,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Spoink",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2310
     },
     {
         "number": 327,
@@ -4827,7 +5171,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1088
     },
     {
         "number": 328,
@@ -4841,7 +5186,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1092
     },
     {
         "number": 329,
@@ -4855,7 +5201,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Trapinch",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1065
     },
     {
         "number": 330,
@@ -4869,7 +5216,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Vibrava",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2458
     },
     {
         "number": 331,
@@ -4883,7 +5231,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1080
     },
     {
         "number": 332,
@@ -4897,7 +5246,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Cacnea",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2092
     },
     {
         "number": 333,
@@ -4911,7 +5261,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 722
     },
     {
         "number": 334,
@@ -4925,7 +5276,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Swablu",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1868
     },
     {
         "number": 335,
@@ -4939,7 +5291,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2214
     },
     {
         "number": 336,
@@ -4953,7 +5306,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1928
     },
     {
         "number": 337,
@@ -4967,7 +5321,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2245
     },
     {
         "number": 338,
@@ -4981,7 +5336,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2245
     },
     {
         "number": 339,
@@ -4995,7 +5351,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 716
     },
     {
         "number": 340,
@@ -5009,7 +5366,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Barboach",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1991
     },
     {
         "number": 341,
@@ -5023,7 +5381,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1107
     },
     {
         "number": 342,
@@ -5037,7 +5396,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Corphish",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2317
     },
     {
         "number": 343,
@@ -5051,7 +5411,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 676
     },
     {
         "number": 344,
@@ -5065,7 +5426,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Baltoy",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1782
     },
     {
         "number": 345,
@@ -5079,7 +5441,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1181
     },
     {
         "number": 346,
@@ -5093,7 +5456,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Lileep",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2081
     },
     {
         "number": 347,
@@ -5107,7 +5471,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1310
     },
     {
         "number": 348,
@@ -5121,7 +5486,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Anorith",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2675
     },
     {
         "number": 349,
@@ -5135,7 +5501,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 220
     },
     {
         "number": 350,
@@ -5149,7 +5516,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Feebas",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2967
     },
     {
         "number": 351,
@@ -5163,7 +5531,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1486
     },
     {
         "number": 351,
@@ -5177,7 +5546,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1486
     },
     {
         "number": 351,
@@ -5191,7 +5561,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1486
     },
     {
         "number": 351,
@@ -5205,7 +5576,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1486
     },
     {
         "number": 352,
@@ -5219,7 +5591,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1924
     },
     {
         "number": 353,
@@ -5233,7 +5606,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 872
     },
     {
         "number": 354,
@@ -5247,7 +5621,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Shuppet",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2073
     },
     {
         "number": 355,
@@ -5261,7 +5636,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 523
     },
     {
         "number": 356,
@@ -5275,7 +5651,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Duskull",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1335
     },
     {
         "number": 357,
@@ -5289,7 +5666,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1846
     },
     {
         "number": 358,
@@ -5303,7 +5681,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2095
     },
     {
         "number": 359,
@@ -5317,7 +5696,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2280
     },
     {
         "number": 360,
@@ -5331,7 +5711,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 503
     },
     {
         "number": 361,
@@ -5345,7 +5726,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 772
     },
     {
         "number": 362,
@@ -5359,7 +5741,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Snorunt",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1945
     },
     {
         "number": 363,
@@ -5373,7 +5756,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 876
     },
     {
         "number": 364,
@@ -5387,7 +5771,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Spheal",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1607
     },
     {
         "number": 365,
@@ -5401,7 +5786,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Sealeo",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2606
     },
     {
         "number": 366,
@@ -5415,7 +5801,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1091
     },
     {
         "number": 367,
@@ -5429,7 +5816,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Clamperl",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2140
     },
     {
         "number": 368,
@@ -5443,7 +5831,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Clamperl",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2281
     },
     {
         "number": 369,
@@ -5457,7 +5846,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2557
     },
     {
         "number": 370,
@@ -5471,7 +5861,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 735
     },
     {
         "number": 371,
@@ -5485,7 +5876,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1053
     },
     {
         "number": 372,
@@ -5499,7 +5891,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Bagon",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1958
     },
     {
         "number": 373,
@@ -5513,7 +5906,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Shelgon",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3532
     },
     {
         "number": 374,
@@ -5527,7 +5921,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 843
     },
     {
         "number": 375,
@@ -5541,7 +5936,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Beldum",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1570
     },
     {
         "number": 376,
@@ -5555,7 +5951,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "Metang",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3637
     },
     {
         "number": 377,
@@ -5569,7 +5966,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3087
     },
     {
         "number": 378,
@@ -5583,7 +5981,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3087
     },
     {
         "number": 379,
@@ -5597,7 +5996,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 2261
     },
     {
         "number": 380,
@@ -5611,7 +6011,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3377
     },
     {
         "number": 381,
@@ -5625,7 +6026,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3644
     },
     {
         "number": 382,
@@ -5639,7 +6041,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 4074
     },
     {
         "number": 383,
@@ -5653,7 +6056,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 4074
     },
     {
         "number": 384,
@@ -5667,7 +6071,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3645
     },
     {
         "number": 385,
@@ -5681,7 +6086,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3090
     },
     {
         "number": 386,
@@ -5695,7 +6101,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 2749
     },
     {
         "number": 386,
@@ -5709,7 +6116,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 2244
     },
     {
         "number": 386,
@@ -5723,7 +6131,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 1978
     },
     {
         "number": 386,
@@ -5737,7 +6146,8 @@
         "candyToEvolve": -1,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 2504
     },
     {
         "number": 387,
@@ -5751,7 +6161,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1187
     },
     {
         "number": 388,
@@ -5765,7 +6176,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Turtwig",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1890
     },
     {
         "number": 389,
@@ -5779,7 +6191,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Grotle",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2934
     },
     {
         "number": 390,
@@ -5793,7 +6206,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 957
     },
     {
         "number": 391,
@@ -5807,7 +6221,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Chimchar",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1574
     },
     {
         "number": 392,
@@ -5821,7 +6236,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Monferno",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2683
     },
     {
         "number": 393,
@@ -5835,7 +6251,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1075
     },
     {
         "number": 394,
@@ -5849,7 +6266,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Piplup",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1701
     },
     {
         "number": 395,
@@ -5863,7 +6281,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Prinplup",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2900
     },
     {
         "number": 396,
@@ -5877,7 +6296,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 719
     },
     {
         "number": 397,
@@ -5891,7 +6311,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Starly",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1299
     },
     {
         "number": 398,
@@ -5905,7 +6326,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Staravia",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2825
     },
     {
         "number": 399,
@@ -5919,7 +6341,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 721
     },
     {
         "number": 400,
@@ -5933,7 +6356,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Bidoof",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1823
     },
     {
         "number": 401,
@@ -5947,7 +6371,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 401
     },
     {
         "number": 402,
@@ -5961,7 +6386,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Kricketot",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1653
     },
     {
         "number": 403,
@@ -5975,7 +6401,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 876
     },
     {
         "number": 404,
@@ -5989,7 +6416,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Shinx",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1486
     },
     {
         "number": 405,
@@ -6003,7 +6431,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Luxio",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2888
     },
     {
         "number": 406,
@@ -6017,7 +6446,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 856
     },
     {
         "number": 407,
@@ -6031,7 +6461,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Roselia",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2971
     },
     {
         "number": 408,
@@ -6045,7 +6476,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1820
     },
     {
         "number": 409,
@@ -6059,7 +6491,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Cranidos",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3298
     },
     {
         "number": 410,
@@ -6073,7 +6506,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 890
     },
     {
         "number": 411,
@@ -6087,7 +6521,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Shieldon",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1539
     },
     {
         "number": 412,
@@ -6101,7 +6536,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 488
     },
     {
         "number": 413,
@@ -6115,7 +6551,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Burmy",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1773
     },
     {
         "number": 413,
@@ -6129,7 +6566,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Burmy",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1773
     },
     {
         "number": 413,
@@ -6143,7 +6581,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Burmy",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1593
     },
     {
         "number": 413,
@@ -6157,7 +6596,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Burmy",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1773
     },
     {
         "number": 414,
@@ -6171,7 +6611,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1815
     },
     {
         "number": 415,
@@ -6185,7 +6626,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Mothim",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 494
     },
     {
         "number": 416,
@@ -6199,7 +6641,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Mothim",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2005
     },
     {
         "number": 417,
@@ -6213,7 +6656,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1213
     },
     {
         "number": 418,
@@ -6227,7 +6671,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1054
     },
     {
         "number": 419,
@@ -6241,7 +6686,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Buizel",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2443
     },
     {
         "number": 420,
@@ -6255,7 +6701,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 950
     },
     {
         "number": 421,
@@ -6269,7 +6716,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Cherubi",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2048
     },
     {
         "number": 421,
@@ -6283,7 +6731,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Cherubi",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2048
     },
     {
         "number": 421,
@@ -6297,7 +6746,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Cherubi",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2048
     },
     {
         "number": 422,
@@ -6311,7 +6761,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1136
     },
     {
         "number": 422,
@@ -6325,7 +6776,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1136
     },
     {
         "number": 422,
@@ -6339,7 +6791,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1136
     },
     {
         "number": 423,
@@ -6353,7 +6806,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2324
     },
     {
         "number": 423,
@@ -6367,7 +6821,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Shellos",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2324
     },
     {
         "number": 423,
@@ -6381,7 +6836,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Shellos",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2324
     },
     {
         "number": 424,
@@ -6395,7 +6851,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Aipom",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2418
     },
     {
         "number": 425,
@@ -6409,7 +6866,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1197
     },
     {
         "number": 426,
@@ -6423,7 +6881,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Drifloon",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2382
     },
     {
         "number": 427,
@@ -6437,7 +6896,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1258
     },
     {
         "number": 428,
@@ -6451,7 +6911,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Buneary",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2059
     },
     {
         "number": 429,
@@ -6465,7 +6926,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Misdreavus",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2615
     },
     {
         "number": 430,
@@ -6479,7 +6941,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Murkrow",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2711
     },
     {
         "number": 431,
@@ -6493,7 +6956,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 934
     },
     {
         "number": 432,
@@ -6507,7 +6971,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Glameow",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1953
     },
     {
         "number": 433,
@@ -6521,7 +6986,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1005
     },
     {
         "number": 434,
@@ -6535,7 +7001,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1151
     },
     {
         "number": 435,
@@ -6549,7 +7016,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Stunky",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2358
     },
     {
         "number": 436,
@@ -6563,7 +7031,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 603
     },
     {
         "number": 437,
@@ -6577,7 +7046,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Bronzor",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2239
     },
     {
         "number": 438,
@@ -6591,7 +7061,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1302
     },
     {
         "number": 439,
@@ -6605,7 +7076,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1095
     },
     {
         "number": 440,
@@ -6619,7 +7091,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 371
     },
     {
         "number": 441,
@@ -6633,7 +7106,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1791
     },
     {
         "number": 442,
@@ -6647,7 +7121,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2072
     },
     {
         "number": 443,
@@ -6661,7 +7136,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1112
     },
     {
         "number": 444,
@@ -6675,7 +7151,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Gible",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1874
     },
     {
         "number": 445,
@@ -6689,7 +7166,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Gible",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3962
     },
     {
         "number": 446,
@@ -6703,7 +7181,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1892
     },
     {
         "number": 447,
@@ -6717,7 +7196,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 993
     },
     {
         "number": 448,
@@ -6731,7 +7211,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Riolu",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2703
     },
     {
         "number": 449,
@@ -6745,7 +7226,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1358
     },
     {
         "number": 450,
@@ -6759,7 +7241,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Hippopotas",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3085
     },
     {
         "number": 451,
@@ -6773,7 +7256,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1009
     },
     {
         "number": 452,
@@ -6787,7 +7271,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Skorupi",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2453
     },
     {
         "number": 453,
@@ -6801,7 +7286,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 952
     },
     {
         "number": 454,
@@ -6815,7 +7301,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Croagunk",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2488
     },
     {
         "number": 455,
@@ -6829,7 +7316,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2159
     },
     {
         "number": 456,
@@ -6843,7 +7331,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 971
     },
     {
         "number": 457,
@@ -6857,7 +7346,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1814
     },
     {
         "number": 458,
@@ -6871,7 +7361,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1248
     },
     {
         "number": 459,
@@ -6885,7 +7376,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 1159
     },
     {
         "number": 460,
@@ -6899,7 +7391,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Snover",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2362
     },
     {
         "number": 461,
@@ -6913,7 +7406,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Sneasel",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3005
     },
     {
         "number": 462,
@@ -6927,7 +7421,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Magneton",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3205
     },
     {
         "number": 463,
@@ -6941,7 +7436,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Lickitung",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2467
     },
     {
         "number": 464,
@@ -6955,7 +7451,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Rhydon",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3733
     },
     {
         "number": 465,
@@ -6969,7 +7466,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Tangela",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3030
     },
     {
         "number": 466,
@@ -6983,7 +7481,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Electabuzz",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3079
     },
     {
         "number": 467,
@@ -6997,7 +7496,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Magmar",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3132
     },
     {
         "number": 468,
@@ -7011,7 +7511,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Togetic",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3332
     },
     {
         "number": 469,
@@ -7025,7 +7526,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Yanma",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2946
     },
     {
         "number": 470,
@@ -7039,7 +7541,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2944
     },
     {
         "number": 471,
@@ -7053,7 +7556,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Eevee",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3126
     },
     {
         "number": 472,
@@ -7067,7 +7571,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Gligar",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2692
     },
     {
         "number": 473,
@@ -7081,7 +7586,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Piloswine",
         "kmBuddyDistance": 1.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3328
     },
     {
         "number": 474,
@@ -7095,7 +7601,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Porygon2",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3266
     },
     {
         "number": 475,
@@ -7109,7 +7616,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Kirlia",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 3093
     },
     {
         "number": 476,
@@ -7123,7 +7631,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Nosepass",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2080
     },
     {
         "number": 477,
@@ -7137,7 +7646,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Dusclops",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2388
     },
     {
         "number": 478,
@@ -7151,7 +7661,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Snorunt",
         "kmBuddyDistance": 3.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2040
     },
     {
         "number": 479,
@@ -7165,7 +7676,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2579
     },
     {
         "number": 479,
@@ -7179,7 +7691,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2579
     },
     {
         "number": 479,
@@ -7193,7 +7706,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2579
     },
     {
         "number": 479,
@@ -7207,7 +7721,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2579
     },
     {
         "number": 479,
@@ -7221,7 +7736,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2579
     },
     {
         "number": 479,
@@ -7235,7 +7751,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 5.0,
-        "rarity": "Normal"
+        "rarity": "Normal",
+        "maxcp": 2031
     },
     {
         "number": 480,
@@ -7249,7 +7766,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 2524
     },
     {
         "number": 481,
@@ -7263,7 +7781,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3058
     },
     {
         "number": 482,
@@ -7277,7 +7796,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3210
     },
     {
         "number": 483,
@@ -7291,7 +7811,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 4038
     },
     {
         "number": 484,
@@ -7305,7 +7826,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3991
     },
     {
         "number": 485,
@@ -7319,7 +7841,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3754
     },
     {
         "number": 486,
@@ -7333,7 +7856,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 4346
     },
     {
         "number": 487,
@@ -7347,7 +7871,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3379
     },
     {
         "number": 487,
@@ -7361,7 +7886,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3379
     },
     {
         "number": 487,
@@ -7375,7 +7901,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 3683
     },
     {
         "number": 488,
@@ -7389,7 +7916,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Legendary"
+        "rarity": "Legendary",
+        "maxcp": 2857
     },
     {
         "number": 489,
@@ -7403,7 +7931,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 2105
     },
     {
         "number": 490,
@@ -7417,7 +7946,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "Phione",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3265
     },
     {
         "number": 491,
@@ -7431,7 +7961,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3739
     },
     {
         "number": 492,
@@ -7445,7 +7976,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3592
     },
     {
         "number": 492,
@@ -7459,7 +7991,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3592
     },
     {
         "number": 492,
@@ -7473,7 +8006,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3265
     },
     {
         "number": 493,
@@ -7487,7 +8021,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7501,7 +8036,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7515,7 +8051,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7529,7 +8066,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7543,7 +8081,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7557,7 +8096,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7571,7 +8111,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7585,7 +8126,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7599,7 +8141,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7613,7 +8156,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7627,7 +8171,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7641,7 +8186,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7655,7 +8201,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7669,7 +8216,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7683,7 +8231,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7697,7 +8246,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7711,7 +8261,8 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     },
     {
         "number": 493,
@@ -7725,6 +8276,7 @@
         "candyToEvolve": 25,
         "parentPokemonId": "",
         "kmBuddyDistance": 20.0,
-        "rarity": "Mythic"
+        "rarity": "Mythic",
+        "maxcp": 3989
     }
 ]

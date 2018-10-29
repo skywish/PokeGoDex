@@ -29,5 +29,6 @@
 
     <color name="list_head">#2d9486</color>
     <color name="list_head_font">#ffffff</color>
+    <color name="evolve_attr">#000000</color>
 
 </resources>
